@@ -1,34 +1,12 @@
-# nugget-tracker
+# :moneybag: Nugget Budget Tracker
 
-## Project setup
-```
-npm install
-```
+Nugget is an app for tracking expenses. It aims to allow its users to gain insight in their spending habits, and to help them save.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Planned Features
+- Expense tracking: specify items, cost, and classify them according to categories.
+- Balance tracking: keep track of how much money you currently have based on initial balance and expenses.
+- Budget tracking: set a fixed amount of budget for item categories over flexible time intervals
+- Insights: view summaries of your expenses according to time frame or categories
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Copyright 2019. Miguel Cabiles. All rights reserved.

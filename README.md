@@ -8,5 +8,5 @@ Nugget is an app for tracking expenses. It aims to allow its users to gain insig
 - Budget tracking: set a fixed amount of budget for item categories over flexible time intervals
 - Insights: view summaries of your expenses according to time frame or categories
 
-
+Nugget is built with :heart: using [Vue](http://vuejs.org) and [Tailwindcss](http://tailwindcss.com).
 Copyright 2019. Miguel Cabiles. All rights reserved.
